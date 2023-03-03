@@ -1,0 +1,15 @@
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\bin\Debug\net6.0\Endirim.exe
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\bin\Debug\net6.0\Endirim.deps.json
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\bin\Debug\net6.0\Endirim.runtimeconfig.json
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\bin\Debug\net6.0\Endirim.dll
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\bin\Debug\net6.0\Endirim.pdb
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\obj\Debug\net6.0\Endirim.csproj.AssemblyReference.cache
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\obj\Debug\net6.0\Endirim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\obj\Debug\net6.0\Endirim.AssemblyInfoInputs.cache
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\obj\Debug\net6.0\Endirim.AssemblyInfo.cs
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\obj\Debug\net6.0\Endirim.csproj.CoreCompileInputs.cache
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\obj\Debug\net6.0\Endirim.dll
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\obj\Debug\net6.0\refint\Endirim.dll
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\obj\Debug\net6.0\Endirim.pdb
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\obj\Debug\net6.0\Endirim.genruntimeconfig.cache
+C:\Users\Alber\Desktop\Code Academy\C# projects\Endirim\Endirim\obj\Debug\net6.0\ref\Endirim.dll
